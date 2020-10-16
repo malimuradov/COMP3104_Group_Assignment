@@ -1,0 +1,4 @@
+                                                 COMP3104 - DevOps
+
+It is a fifth-semester course offered only in September each year as part of the last terms a student must complete to graduate from the T127 program. COMP3104 runs for 14 weeks, with a midterm and final exam given throughout the course. The course is intended to have students understand and learn about DevOps engineers, including the requirements and the process used in everyday work/team projects. 
+
