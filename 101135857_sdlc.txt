@@ -1,0 +1,9 @@
+
+DevOps engineer looks at the bigger picture when setting up their project process. A vital component is the SDLC in the form of the Agile method used to breakdown the project's stages and goals. A DevOps operation comprises seven steps: plan, create, verify, package, release, configure, and monitor. These steps are part of the software development cycle that a DevOps engineer must work into their projects. 
+
+Other components of the DevOps job is:
+- From supervising their team.
+- Inspecting programming methods used
+- Choosing the right platform for projects
+- Picking the CI/CD tools to make sure everything works correctly within their pipeline. 
+- If issues are found, the DevOps engineer's responsibility is to inform their team and begin looking for solutions.
