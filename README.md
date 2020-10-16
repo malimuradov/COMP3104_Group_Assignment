@@ -1,6 +1,5 @@
-This repo is for Assignment 1 DevOps course. <br />
-Assignment Group 12: <br />
-Magomed Alimuradov - 101200132 <br />
-Cristobal Molina Amaya - 101135857 <br />
+Group Assignemt comp3104 Repository< /br>
+Assignment Group 12:< /br>
+Daniel Hoffman ID-100598488< /br>
 <empty>
-<empty>
+
