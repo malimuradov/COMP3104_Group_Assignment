@@ -1,1 +1,9 @@
-SDLC info
+SDLC
+
+SDLC is a important tool which devops engineer's follow in their work process.
+
+- From superisoring their team.
+- Inpsecting programming methods used
+- Choosing right platform for projects
+- Picking the CI/CD tools to make sure everything works correctly within the pipeline.
+- If any issues are discovered they will inform their team than look for solutions.
