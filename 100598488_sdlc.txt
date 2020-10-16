@@ -1,0 +1,6 @@
+DevOps is a practice that allows a single team to manage the entire 
+application development life cycle, that is, development, testing, 
+deployment, operations. ... It consists of various stages such as 
+continuous development, continuous integration, 
+continuous testing, continuous deployment, 
+and continuous monitoring.
